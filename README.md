@@ -6,3 +6,5 @@
 4.later we have pushed to github
 5.after pushing i have deployed
 6.now updated readme file
+
+https://ca-components-inky.vercel.app/
